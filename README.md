@@ -28,3 +28,13 @@ wikiUrl	http://wikieducator.org/OER1001/regional-relations-in-asia-and-the-pacif
 mediaUrl	http://upload.wikimedia.org/wikipedia/commons/d/d8/United_Nations_Flags_-_cropped.jpg
 pageName	Assessment
 
+#TODO test
+sudo apt-get install python-lxml
+Install 
+sudo apt-get install python-beautifulsoup
+CSS
+Download https://github.com/twbs/bootstrap/zipball/master from  http://bootstrapdocs.com/v2.3.2/docs/getting-started.html and unzip, then copy the dist folder 
+Download
+https://pypi.python.org/pypi/xlrd
+Follow installation instructions
+http://www.simplistix.co.uk/presentations/python-excel.pdf
