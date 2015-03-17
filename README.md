@@ -33,7 +33,8 @@ mediaUrl	http://upload.wikimedia.org/wikipedia/commons/d/d8/United_Nations_Flags
 pageName	Assessment
 ```
 
-#TODO test
+#TODO test and refine
+```
 sudo apt-get install python-lxml
 Install 
 sudo apt-get install python-beautifulsoup
@@ -43,3 +44,4 @@ Download
 https://pypi.python.org/pypi/xlrd
 Follow installation instructions
 http://www.simplistix.co.uk/presentations/python-excel.pdf
+```
